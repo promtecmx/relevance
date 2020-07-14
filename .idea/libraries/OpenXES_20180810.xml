@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OpenXES-20180810">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/OpenXES-20180810.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

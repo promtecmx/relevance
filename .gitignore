@@ -1,0 +1,13 @@
+data
+dataset
+logs
+target
+
+leemans
+leemans2
+Celonis
+
+*.json
+*.txt
+*.xes
+*.csv
